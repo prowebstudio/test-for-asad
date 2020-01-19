@@ -1,0 +1,399 @@
+* {
+	margin: 0px;
+	padding: 0px
+
+}
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+
+}
+/* Hader css start */
+.logo-sec {
+
+background: #f6f9f9;
+}
+
+.img-logo {
+
+}
+header img {
+	
+padding: 31px 0px;
+}
+
+/* Hader css end */
+
+
+/* Banner-sec css start */
+.Banner-sec {background-image: url(../img/Strict.png);width: 100%;float: left;padding: 25px 0px;text-align: center;}
+
+
+.Banner-containt {
+
+}
+.Banner-containt h1 {
+
+font-size: 90px;
+
+color: #fff;
+}
+.Banner-containt span {
+
+display: block;
+
+border-bottom: 3px solid #1CA7FA;
+
+width: 80%;
+
+margin: 30px auto;
+}
+.Banner-containt p {
+
+color: #fff;
+
+font-size: 15px;
+}
+
+.Banner-btn-icon {
+}
+
+.Banner-btn-icon button {
+
+font-size: 14px;
+
+padding: 21px 36px;
+
+background: none;
+
+color: #FFF;
+
+border: 2px solid #32AFFB;
+
+margin-top: 68px;
+
+margin-bottom: 175px;
+}
+
+.icon-down {
+
+color: #fff;
+
+font-size: 18px;
+}
+
+.icon-down i {
+
+
+}
+
+/* Banner-sec css end */
+
+/* Simple-&-pure-design css start */
+
+.Simple-pure-design {
+
+width: 100%;
+
+float: left;
+
+background-color: #F6F9F9;
+
+text-align: center;
+}
+.Simple-content {
+
+
+}
+
+.Simple-content h1 {
+
+font-size: 28px;
+
+padding: 65px 0px 55px 0px;
+}
+.Simple-content p {
+
+font-size: 17px;
+
+padding-bottom: 110px;
+}
+
+/* Simple-&-pure-design css end */
+
+/* Scl-icon css start */
+
+
+.Scl-icon-sec {
+			    background-color: #FFFFFF;
+			    width: 100%;
+			    text-align: center;
+			    float: left;
+			    padding: 65px 0px;
+}
+
+
+
+.icn-con-one {
+				width: 30%;
+				float: left;
+				padding: 0px 35px 0px 0px;
+}
+
+.icn-con-two {
+
+width: 30%;
+
+float: left;
+
+padding: 0px 35px 0px 0px;
+}
+
+.icn-con-three {
+
+width: 30%;
+
+float: left;
+
+padding: 0px 35px 0px 0px;
+}
+
+.icon-all {
+
+text-align: center;
+
+padding: 22px;
+}
+.icon-all i {
+
+color: #fff;
+
+background-color: #5FC3FF;
+
+padding: 22px 35px;
+
+font-size: 50px;
+}
+
+.icon-content {
+
+
+}
+
+.icon-content h2 {
+
+	font-size: 18px;
+
+	padding: 30px;
+
+	color: #2D3950;
+}  
+
+.icon-content p {
+
+	font-size: 15px;
+
+	color: #999999;
+}
+
+/* Scl-icon css end */
+
+/* galary css start */
+.galary-section {
+
+	width: 100%;
+
+	float: left;
+
+	background-color: #F6F9F9;
+
+	padding: 89px 0px 117px 0px;
+}
+.galary-content {
+
+	text-align: center;
+}
+
+.galary-content h2 {
+	
+	font-size: 30px;
+		
+	padding-bottom: 23px;
+}
+
+.galary-content p {
+	
+	font-size: 12px;
+		
+	padding-bottom: 84px;
+		
+	color: #909090;
+}
+
+
+.galary-img {
+	s
+
+}
+
+.galary-img-one {
+	
+	padding: 0px 0px 15px 0px;
+}
+
+.img-one {
+
+	padding: 0px 15px 0px 0px;
+}
+.img-two {
+
+	padding: 0px 15px 0px 0px;
+}
+.img-three {
+
+	padding: 0px 15px 0px 0px;
+}
+.galary-img-two {
+
+	padding: 0px 0px 0px 0px;
+}
+
+.img-four {
+
+	padding: 0px 15px 0px 0px;
+}
+.img-five {
+
+	padding: 0px 15px 0px 0px;
+}
+.img-six {
+
+	padding: 0px 15px 0px 0px;
+}
+
+/* galary css end */
+
+
+
+/* Comment-sec css start */
+.Comment-sec {
+	background-image: url(../img/last.png);
+	width: 100%;
+	float: left;
+}
+
+.Comment-content {
+}
+.Comment-content h2 {text-align: center;font-size: 30px;padding-top: 75px;color: #ffffff;}
+
+.Comment-content p {
+
+padding-bottom: 50px;
+
+text-align: center;
+
+padding-top: 26px;
+
+font-size: 13px;
+
+color: #999999;
+}
+.from-sec {
+
+width: 65%;
+
+margin: 0 auto;
+
+text-align: center;
+    padding-bottom: 112px;
+}
+
+
+.from-control {
+
+width: 560px;
+
+height: 69px;
+
+margin: 20px 0px 20px auto;
+
+background: none;
+}
+
+
+.cstm-textarea {
+background: none;
+    margin: 0px;
+    width: 568px;
+    height: 218px;
+}
+
+
+
+.checkbox {
+}
+.button-sent {
+    font-size: 17px;
+    padding: 13px 72px;
+    background: none;
+    color: #FFF;
+    border: 2px solid #32AFFB;
+    margin-top: 22px;
+    margin-left: 220px;
+}
+
+
+/* Comment-sec css end */
+
+/* figure-sec css end */
+
+
+figure {
+
+width: 100%;
+
+float: left;
+
+padding: 0px 0px;
+}
+.f-content {
+
+float: left;
+}
+
+.f-content p {padding-top: 40px;padding-bottom: 40px;}
+
+.socal-icon {
+
+float: right;
+
+padding: 25px 0px;
+}
+.fa.fa-facebook-official {font-size: 40px;color: #15a4fa;margin: 7px;padding: 4px 6px;}
+.fa.fa-twitter {
+
+font-size: 30px;
+
+background: #15a4fa;
+
+color: #fff;
+
+margin: 7px;
+
+padding: 4px 6px;
+}
+.fa.fa-google-plus-square {font-size: 40px;color: #15a4fa;margin: 7px;padding: 4px 6px;}
+.fa.fa-linkedin {
+
+font-size: 40px;
+
+color: #15a4fa;
+
+margin: 7px;
+
+padding: 4px 6px;
+}
